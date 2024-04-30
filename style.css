@@ -33,36 +33,6 @@
 	background-color: lightgray;
 }
 
-
-
-.image_1 {
-	width: 700px;
-	height: 500px;
-	border: 2px solid black;
-	margin: 10px 0;
-    animation: animateX 2s ease forwards;
-}
-
-.table_1 {
-	border: 2px solid black;
-	width: 500px;
-	font-size: 30px;
-	text-align: center;
-	font-family: sans-serif;
-    animation: animateX 3s ease forwards;
-}
-
-.h2_1 {
-	margin: 0 0;
-	color: red;
-}
-
-.background {
-    position: relative; 
-    text-align: left;
-    color: white;
-}
-
 .info {
     font-style: italic;
     line-height: 0.5;
@@ -73,10 +43,6 @@
     text-align: center;
 	color: navy;
     animation: animateX 1.5s ease forwards;
-}
-
-hr {
-	border: 2px solid black;
 }
 
 .img1 {
@@ -92,20 +58,13 @@ hr {
     border-radius: 20px;
 }
 
-.img1div {
-    text-align: center;
-}
-.img2div {
-    text-align: center;
-}
-.img3div {
+.imgdiv {
     text-align: center;
 }
 
 .mainText {
     padding-right: 2%;
 }
-
 
 body {
 	font-family: 'Gayathri', sans-serif;
